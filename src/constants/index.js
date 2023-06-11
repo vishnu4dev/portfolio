@@ -142,28 +142,35 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+      "Vishnu joined our team in EY as a fresher and adapted to the team's culture very quickly. I have had the pleasure to work with him closely in the same group on a Blockchain solution recently. He proved to be a swift learner and I really appreciate the way he approaches new challenges. He is a great team player and is a resilient developer. His technical skills are really commendable and he communicates effectively. A very dependable resource and I highly recommend him. All the best Vishnu.",
+    name: "Sreepriya Sreekumar",
+    designation: "Technology Consulting Manager at EY - Blockchain",
+    company: "Ernest&Young",
+    image: "",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+      "Vishnu is such a hard working and dedicated resource with profiled skill sets in full stack development . He has been working in various project under MERN stack . I would recommend Vishnu for further engagements",
+    name: "Nijitha R Shukkoor ",
+    designation: "Full stack developer",
+    company: "Innokas Medical",
+    image: "",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+      "Vishnu k kumar has very good problems solving skills. Being a rookie at the time i worked with him, he was exceptional in what he does. I would highly recommend vishnu. All the best for your future endeavours ",
+    name: "Vignesh K B ",
+    designation: "SDE 3 at Walmart",
+    company: "Walmart",
+    image: "https://randomuser.me/api/portraits/man/6.jpg",
   },
+  {
+    testimonial: "Vishnu is very passionate and has great vision for his work. His focus keeps everything moving smoothly, he makes sure all the deadlines are met, and makes sure that whatever project he is working on meets the highest standards.",
+    name: "Nakendra Kumar",
+    designation: "SDE 2 at Tessco",
+    company: "Tessco",
+    image: "https://randomuser.me/api/portraits/man/2.jpg",
+  }
 ];
 
 const projects = [
