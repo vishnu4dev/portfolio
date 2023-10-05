@@ -28,6 +28,7 @@ import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import ey from "./company/ey.png"
 import ps from "./company/ps.png"
+import lloydsBankingGroup from "./company/lloydsBankingGroup.png"
 
 
 import cargill from "./cargill.png";
@@ -66,5 +67,6 @@ export {
   eyOpsChain,
   ey,
   ps,
-  mui
+  mui,
+  lloydsBankingGroup
 };

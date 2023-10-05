@@ -22,7 +22,8 @@ import {
   eyOpsChain,
   hsource,
   // threejs,
-  mui
+  mui,
+  lloydsBankingGroup
 } from "../assets";
 
 export const navLinks = [
@@ -112,6 +113,31 @@ const technologies = [
 
 const experiences = [
   {
+    title: "Software Engineer",
+    company_name: "Lloyds Banking Group",
+    icon: lloydsBankingGroup,
+    iconBg: "#000",
+    date: "September 2023- Present",
+    points: [
+      "Payments & Accesibility related feature development",
+      "Developing and maintaining banking applications",
+      "Code reviews and providing constructive feedback to other developers."
+    ],
+  },
+  {
+    title: "Front End Developer",
+    company_name: "Publicis Sapient",
+    icon: ps,
+    iconBg: "#E6DEDD",
+    date: "March 2021 - August 2023",
+    points: [
+      "Developing and maintaining web applications using React.js and other related technologies.",
+      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Implementing responsive design and ensuring cross-browser compatibility.",
+      "Participating in code reviews and providing constructive feedback to other developers.",
+    ],
+  },
+  {
     title: "MERN Stack Developer",
     company_name: "Ernest & Young",
     icon: ey,
@@ -122,19 +148,6 @@ const experiences = [
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Develop and deliver end-to-end feature functionality in MERN stack applications following Agile methodology ",
       "Played key role in delivering EY OpsChain, EY Abacus Lotte Blockchain Wallet, EY InterCompany, HSources and etc.",
-    ],
-  },
-  {
-    title: "Front End Developer",
-    company_name: "Publicis Sapient",
-    icon: ps,
-    iconBg: "#E6DEDD",
-    date: "March 2021 - Present",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
     ],
   }
 ];
